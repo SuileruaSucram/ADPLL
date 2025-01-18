@@ -1,0 +1,3 @@
+Warning (10268): Verilog HDL information at User_Input.v(61): always construct contains both blocking and non-blocking assignments File: C:/Users/uwtpatron/Desktop/ADPLL_7_4/ADPLL_7_3/ADPLL5_7/ADPLL_5_4/User_Input.v Line: 61
+Warning (10268): Verilog HDL information at Divider.sv(14): always construct contains both blocking and non-blocking assignments File: C:/Users/uwtpatron/Desktop/ADPLL_7_4/ADPLL_7_3/ADPLL5_7/ADPLL_5_4/Divider.sv Line: 14
+Warning (10268): Verilog HDL information at ADPLL_5_3.v(41): always construct contains both blocking and non-blocking assignments File: C:/Users/uwtpatron/Desktop/ADPLL_7_4/ADPLL_7_3/ADPLL5_7/ADPLL_5_4/ADPLL_5_3.v Line: 41
